@@ -7,7 +7,10 @@
 [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/eilton)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/eilton_costa/)
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://img.olhardigital.com.br/wp-content/uploads/2023/05/Games-Brasil.jpg)
+
 ## Habilidades
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eiltoncosta&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## GitHub Stats
